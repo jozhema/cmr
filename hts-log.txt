@@ -1,0 +1,25 @@
+HTTrack3.48-22+htsswf+htsjava launched on Tue, 28 Mar 2017 15:16:20 at http://www.w3schools.com/w3css/tryw3css_templates_band.htm +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.w3schools.com/w3css/tryw3css_templates_band.htm -O1 "C:\My Web Sites\home" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:31:19	Warning: 	Moved Permanently for www.w3schools.com/robots.txt
+15:31:19	Warning: 	Redirected link is identical because of 'URL Hack' option: www.w3schools.com/robots.txt and https://www.w3schools.com/robots.txt
+15:31:19	Warning: 	Warning moved treated for www.w3schools.com/robots.txt (real one is https://www.w3schools.com/robots.txt)
+15:31:19	Warning: 	Moved Permanently for www.w3schools.com/w3css/
+15:31:19	Warning: 	Redirected link is identical because of 'URL Hack' option: www.w3schools.com/w3css/ and https://www.w3schools.com/w3css/
+15:31:19	Warning: 	File has moved from www.w3schools.com/w3css/ to https://www.w3schools.com/w3css/
+15:31:20	Error: 	"Forbidden" (403) at link https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit (from https://www.w3schools.com/w3css/default.asp)
+15:31:20	Error: 	"Not Found" (404) at link https://www.w3schools.com/w3css/GET (from https://www.w3schools.com/w3css/w3css_templates.asp)
+15:34:36	Error: 	"Not Found" (404) at link https://www.w3schools.com/w3css/w3_css_modal.asp (from https://www.w3schools.com/w3css/w3css_intro.asp)
+15:34:36	Error: 	"Not Found" (404) at link https://www.w3schools.com/w3css/w3_css_slideshow.asp (from https://www.w3schools.com/w3css/w3css_intro.asp)
+15:34:45	Error: 	"Not Found" (404) at link https://www.w3schools.com/w3css/w3css_sidebar.htm (from https://www.w3schools.com/w3css/w3css_tabulators.asp)
+15:34:54	Warning: 	Retry after error -4 (Connect Error) at link https://www.w3schools.com/w3css/4/w3mobile.css (from https://www.w3schools.com/w3css/w3css_versions.asp)
+15:35:22	Error: 	"Not Found" (404) at link https://www.w3schools.com/w3css/POST (from https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_default_intro)
+15:35:22	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.w3schools.com/w3images/skies.jpg (from https://www.w3schools.com/w3css/tryw3css_templates_blog.htm)
+
+HTTrack Website Copier/3.48-22 mirror complete in 19 minutes 3 seconds : 1326 links scanned, 1315 files written (54833264 bytes overall) [23288063 bytes received at 20374 bytes/sec], 54331965 bytes transferred using HTTP compression in 1308 files, ratio 39%
+(6 errors, 8 warnings, 0 messages)
